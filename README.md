@@ -1,5 +1,5 @@
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
+<p align='center' style="font-weight: bold;font-size:30px">
+  fast-template-lightweight
 </p>
 
 <h6 align='center'>
@@ -12,10 +12,6 @@
 
 <br>
 
-<p align='center'>
-<b>English</b> | <a href="https://github.com/antfu/vitesse-lite/blob/main/README.zh-CN.md">简体中文</a>
-<!-- Contributors: Thanks for geting interested, however we DON'T accept new transitions to the README, thanks. -->
-</p>
 
 ## Features
 
@@ -70,18 +66,6 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 - [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - components auto import
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
 
-## Try it now!
+### Form
 
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-lite/generate).
-
-### Clone to local
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx degit antfu/vitesse-lite my-vitesse-app
-cd my-vitesse-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
-```
+depend by [antfu](https://github.com/antfu/vitesse-lite)
